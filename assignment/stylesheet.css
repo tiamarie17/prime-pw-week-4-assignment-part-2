@@ -28,3 +28,10 @@ img {
     margin-right: auto;
     
 }
+
+footer {
+    text-align: center;
+    color: purple;
+    border-radius: 8px;
+    background-color: #8FBC8F
+}
